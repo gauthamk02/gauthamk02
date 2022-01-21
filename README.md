@@ -1,4 +1,5 @@
-Hi, I’m Gautham Krishnan, a first year CSE student in Amrita University. 
+##### Hi, I’m Gautham Krishnan 
+A first year CSE student🧑‍🎓 in Amrita University🏫 exploring different things in the programming world🌏.
 
 I program in:
  - C/C++
@@ -7,7 +8,9 @@ I program in:
 I'm currently learning:
  - Java
 
-Reach me at gauthamkrishnanpriya@gmail.com
+Reach me at gauthamkrishnanpriya@gmail.com or [Telegram](https://t.me/itsme_gk)
+
+[![Gautham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauthamk02&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Gk119/Gk119 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

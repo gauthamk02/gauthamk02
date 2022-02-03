@@ -1,12 +1,15 @@
 ##### Hi, I’m Gautham Krishnan 
 A first year CSE student🧑‍🎓 in Amrita University🏫 exploring different things in the programming world🌏.
 
+![Profile Views](https://komarev.com/ghpvc/?username=gauthamk02)
+
 I program in:
  - C/C++
  - Python
 
 I'm currently learning:
  - Java
+ - Django
 
 Reach me at gauthamkrishnanpriya@gmail.com or [Telegram](https://t.me/itsme_gk)
 

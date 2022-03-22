@@ -10,6 +10,7 @@ I program in:
 I'm currently learning:
  - Java
  - Django
+ - Flutter
 
 Reach me at gauthamkrishnanpriya@gmail.com or [Telegram](https://t.me/itsme_gk)
 

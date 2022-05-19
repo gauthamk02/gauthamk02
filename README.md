@@ -6,11 +6,10 @@ A first year CSE student🧑‍🎓 in Amrita University🏫 exploring different
 I program in:
  - C/C++
  - Python
+ - Dart (Flutter)
 
 I'm currently learning:
  - Java
- - Django
- - Flutter
 
 Reach me at gauthamkrishnanpriya@gmail.com or [Telegram](https://t.me/itsme_gk)
 

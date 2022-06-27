@@ -7,9 +7,11 @@ I program in:
  - C/C++
  - Python
  - Dart (Flutter)
+ - Java
 
 I'm currently learning:
- - Java
+ - ML
+ - ReactJS
 
 Reach me at gauthamkrishnanpriya@gmail.com or [Telegram](https://t.me/itsme_gk)
 

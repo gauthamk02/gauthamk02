@@ -7,15 +7,21 @@ A first year CSE student 🧑‍🎓 in Amrita University 🏫 exploring differe
 
 </div>
 
-I program in:
- - Python
- - Dart (Flutter)
- - Java
- - C/C++
+I do:
+ - Train ML/DL models
+ - Build Mobile Apps
+ - General Programming
 
-I'm currently learning:
- - ML
- - ReactJS
+I know:
+<table>
+  <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
+  </p>
+ </table>
+          
 
 Reach me at gauthamkrishnanpriya@gmail.com or [Telegram](https://t.me/itsme_gk)
 

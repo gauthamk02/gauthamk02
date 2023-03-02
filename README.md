@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hi, I’m Gautham Krishnan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-A first year CSE student 🧑‍🎓 in Amrita University 🏫 exploring different things in the programming world 🌏.
+A sophomore CSE student 🧑‍🎓 in Amrita University 🏫 exploring different things in the programming world 🌏.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gauthamk02)
 

@@ -9,8 +9,10 @@ A sophomore CSE student 🧑‍🎓 in Amrita University 🏫 exploring differen
 
 I do:
  - Train ML/DL models
+ - participate in hackathons
  - Build Mobile Apps
  - General Programming
+ - and other stuff
 
 I know:
 <table>

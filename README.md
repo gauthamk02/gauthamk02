@@ -5,7 +5,7 @@ A senior CS-AI student 🧑‍🎓 in Amrita University 🏫 exploring different
 
 Currently doing Research in Medical-AI 🧠.
 
-First Prize Winner 🏆 of Hackverse 4.0
+First Prize Winner 🏆 of [Hackverse 4.0](https://hackverse.nitk.ac.in/)
 
 Member and Mentor [@amfoss](https://amfoss.in/)
 

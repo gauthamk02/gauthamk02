@@ -1,9 +1,9 @@
 <div align="center">
 
 ### Hi, I’m Gautham Krishnan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-A senior CS-AI student 🧑‍🎓 in Amrita University 🏫 exploring different things in the programming world 🌏 and playing with Neural Networks 🤖. 
+A senior CS-AI student 🧑‍🎓 at Amrita University 🏫 exploring different things in the programming world 🌏 and playing with Neural Networks. 
 
-Currently working on Medical-AI 🧠.
+Currently working on Medical-AI 🧠 and Reinforcement Learning 🤖.
 
 First Prize Winner 🏆 of [Hackverse 4.0](https://hackverse.nitk.ac.in/)
 

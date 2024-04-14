@@ -36,7 +36,7 @@ I know:
 
 Reach me at gauthamkrishnanpriya@gmail.com or [Telegram](https://t.me/itsme_gk)
 
-Or see my rants at [Twitter](https://twitter.com/gauthamk02)
+Or see my rants at [Twitter](https://twitter.com/gaushn_)
 
 <br>
 

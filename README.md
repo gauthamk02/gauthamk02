@@ -3,7 +3,7 @@
 ### Hi, I’m Gautham Krishnan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 A senior CS-AI student 🧑‍🎓 at Amrita University 🏫 exploring different things in the programming world 🌏 and playing with Neural Networks. 
 
-Currently working on Medical-AI 🧠 and Reinforcement Learning 🤖.
+Currently working on Medical-AI 🧠 and Reinforcement Learning 🤖. GSoC'24 [@deepchem](https://github.com/deepchem/deepchem)
 
 First Prize Winner 🏆 of [Hackverse 4.0](https://hackverse.nitk.ac.in/)
 

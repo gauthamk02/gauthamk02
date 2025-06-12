@@ -4,6 +4,7 @@
 A senior CS-AI student 🧑‍🎓 at Amrita University 🏫 exploring different things in the programming world 🌏 and playing with Neural Networks. 
 
 Currently working on Medical-AI 🧠
+
 GSoC'24 [@deepchem](https://github.com/deepchem/deepchem) 🧪
 
 First Prize Winner 🏆 of [Hackverse 4.0](https://hackverse.nitk.ac.in/)

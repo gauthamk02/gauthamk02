@@ -43,7 +43,7 @@ Or see my rants at [Twitter](https://twitter.com/gaushn_)
 <div align="center">
 
 ![Gautham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauthamk02&count_private=true&theme=radical)
-![Gautham's Github Streaks](https://github-readme-streak-stats.herokuapp.com?user=gauthamk02&theme=radical&hide_border=false)
+<!--![Gautham's Github Streaks](https://github-readme-streak-stats.herokuapp.com?user=gauthamk02&theme=radical&hide_border=false) -->
 
 <!--[](https://github-readme-streak-stats.herokuapp.com?user=gauthamk02&theme=radical&hide_border=false) -->
 

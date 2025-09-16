@@ -1,9 +1,7 @@
 <div align="center">
 
 ### Hi, I’m Gautham Krishnan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-A senior CS-AI student 🧑‍🎓 at Amrita University 🏫 exploring different things in the programming world 🌏 and playing with Neural Networks. 
-
-Currently working on Medical-AI 🧠
+Deep Learning Engineer working on Medical-AI 🧠
 
 GSoC'24 [@deepchem](https://github.com/deepchem/deepchem) 🧪
 
